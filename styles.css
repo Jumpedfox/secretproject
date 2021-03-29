@@ -1,0 +1,232 @@
+
+.whiteback
+  {
+    min-height: 1vh;
+    background-image: url('https://img.freepik.com/free-photo/white-wooden-textures_74190-6906.jpg?size=626&ext=jpg&ga=GA1.2.353569340.1604966400');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 22px;
+    font-weight: 800;
+    padding: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    font-family: 'Comfortaa', cursive;
+    background-image: url('https://i.pinimg.com/originals/d3/d2/6d/d3d26dc88330578bfd45508fcbfb74a0.jpg');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: rgb(126, 85, 9);
+    text-shadow: rgb(255, 255, 255) 1px 1px 0,rgb(255, 255, 255)-1px 0, 
+    rgb(255, 255, 255) -1px 1px 0,  rgb(255, 255, 255) 1px -1px 0;
+    padding: 0.3em 0.6em ;
+    border: 3px solid transparent;
+    border-image: linear-gradient(135deg, #51536b, #c9b769, #626483, #e4d076, #77758b);
+    border-image-slice: 1;
+} 
+
+nav li {
+     display: inline-block;
+     vertical-align: middle;
+     }
+
+nav ul {
+    margin: 0;
+    padding: 0 0 0 10px;
+}
+
+.about ul {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;    
+}
+
+.about li {
+    display: inline-block;
+    vertical-align: middle;
+    width: 500px;
+    height: 300px;
+    margin: 40px 200px 50px 200px;
+    padding: 0px;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+    }
+
+.team2 p {
+    text-decoration: underline;
+    font-size: 60px;
+    }
+
+a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none; 
+    font-size: 40px;
+ }
+
+
+body li {
+        list-style-type: none;
+}
+
+nav li:not(:last-child) {
+    margin-right: 60px;
+}
+nav li:not(:first-child) {
+    margin-left: 60px;
+}
+
+.about p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.team p{
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+* {
+    box-sizing: content-box;
+}
+
+.team li {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin: 50px 100px;
+    padding: 0px; 
+    width: 400px;
+}
+
+.team ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+h4 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 40px;
+}
+
+h5 {
+    display: inline-block;
+    width: 1860px;
+    height: 500px;
+    background-color: black;
+    border-style: dotted;
+    border-color: rgba(236, 253, 0, 0.692);
+    }
+
+h5 a {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    text-decoration: none; 
+    font-size: 20px;
+    margin: 420px 400px 0px 240px;
+}
+
+h5 a:hover {
+    color: blanchedalmond;
+}
+
+h6 {
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    margin: 30px;
+    padding-bottom: 100px;
+}
+.footer {
+    display: inline-block;
+}
+.footer h6 {
+    margin: 20px 100px 20px 150px;
+    padding: 0px;
+}
+h6 a {
+    margin-left: 750px;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #3e8dac;
+}
+
+.pierogi ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.pierogi li {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;  
+}
+
+.menu li {
+    display: inline;
+    width: 950px;
+    font-size: 40px;
+}
+
+.menu p {
+    display: inline;
+    width: 300px;
+    margin: 0px 190px;
+}
+.menu a {
+    color: rgb(100, 37, 8);
+}
+.menu a:hover {
+    color: rgba(255, 153, 0, 0.685);
+}
+.vareniki li {
+    display: inline-block;
+    margin: 5px;
+    padding: 0px;  
+}
+
+.vareniki ul {
+    padding: 0px;
+    margin: 0px;
+}
+.bulochki li {
+    display: inline-block;
+    margin: 5px;
+    padding: 0px;  
+}
+
+.bulochki ul {
+    padding: 0px;
+    margin: 0px;
+}
+ 
+.maincourse {
+    font-size: 30px;
+    text-decoration: underline;
+}
+.maincourse2 p {
+    marginr: 0px;
+}
